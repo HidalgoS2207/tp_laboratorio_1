@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1491361380 source:c:\users\hidalgo\desktop\trabajo_practico_001_hidalgo\funciones.c
+	"funciones.h"
+	"encabezadores.h"
+
+1491361022 c:\users\hidalgo\desktop\trabajo_practico_001_hidalgo\funciones.h
+
+1491361502 source:c:\users\hidalgo\desktop\trabajo_practico_001_hidalgo\main.c
+	"encabezadores.h"
+	"funciones.h"
+
+1491361342 c:\users\hidalgo\desktop\trabajo_practico_001_hidalgo\encabezadores.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<limits.h>
+
